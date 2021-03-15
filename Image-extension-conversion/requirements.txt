@@ -1,0 +1,6 @@
+pillow
+glob
+opencv-python
+numpy
+sys
+os
